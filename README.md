@@ -34,7 +34,7 @@ This is a Todo List application built with React for the frontend, and Spring Bo
 2. **Navigate to the project directory:**
 
    ```bash
-   cd todo-list-app
+   cd Spring-Todo-App
    ```
 
 3. **Install frontend dependencies:**
