@@ -28,7 +28,7 @@ This is a Todo List application built with React for the frontend, and Spring Bo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone [https://github.com/ahmedllshafiey/Spring-Todo-App.git](https://github.com/ahmedllshafiey/Spring-Todo-App.git)
    ```
 
 2. **Navigate to the project directory:**
