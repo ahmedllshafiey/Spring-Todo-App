@@ -73,7 +73,3 @@ This is a Todo List application built with React and Material-UI for the fronten
 ## Contributing
 
 Feel free to open issues or submit pull requests if you want to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.#
