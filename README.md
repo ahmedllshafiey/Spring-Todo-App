@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Todo List application built with React and Material-UI for the frontend, and Spring Boot for the backend. The application allows users to manage their tasks by adding, viewing, and deleting them. 
+This is a Todo List application built with React for the frontend, and Spring Boot for the backend. The application allows users to manage their tasks by adding, viewing, and deleting them. 
 
 ## Features
 
